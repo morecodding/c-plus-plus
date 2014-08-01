@@ -19,7 +19,7 @@ bool e_primo(int x){
 }
 
 main(){
-	future<bool> ft = async(e_primo,3121112323);
+	future<bool> ft = async(e_primo,312112323);
 	cout << "checking..." << endl;
 	bool result = ft.get();
 	if(result)
