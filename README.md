@@ -1,4 +1,4 @@
-dojo-c++
+Repositório de Códigos do +codding xD
 ========
 
-Arquivos do dojo de c++ 
+Aqui disponibilizamos alguns dos códigos que são postados no blog. Espero que curtam :D
