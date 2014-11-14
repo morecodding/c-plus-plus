@@ -72,7 +72,7 @@ function inicio()
 		if(a == 1) then
 			print "digite uma palavra"
 			armazena_palavra()
-			while(pontos ~= 0)  then
+			while(pontos ~= 0)  do
 				printa_xablau(text_mascarado, 1)
 				jogo_de_verdade()
 			end
